@@ -3,9 +3,9 @@
 fun main() {
     var score = 0
 
-    println("--- Début de la partie ---")
+    println("Début de la partie ")
     println("Score initial : $score")
-    println("--------------------------")
+  
 
     // Action 1 : Gain simple
     score += getPoints(10, 1)
@@ -21,7 +21,7 @@ fun main() {
 
     // Action 4 : Perte de points (malus)
     score += getPoints(-10, 1)
-    println("--------------------------")
+    
     println("Score final : $score")
 }
 
