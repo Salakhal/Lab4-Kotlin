@@ -16,13 +16,19 @@ La fonction principale `getPoints(basePoints, boost)` permet de :
 
 ## 📋 Exemple de Sortie
 ```text
+ Début de la partie
 Score initial : 0
-Calcul des points : 10 * 1 = 10
+
+Calcul des points : 10 (base) * 1 (boost) = 10
 Score après 1ère action : 10
 
-Calcul des points : 20 * 2 = 40
+Calcul des points : 20 (base) * 2 (boost) = 40
 Score après 2ème action : 50
 
 Alerte : Aucun boost actif (boost <= 0), aucun point ajouté.
 Score après 3ème action : 50
+
+Calcul des points : -10 (base) * 1 (boost) = -10
+
+Score final : 40
 ```
