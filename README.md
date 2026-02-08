@@ -1,4 +1,4 @@
-# 🎮 Lab 4 : Système de Score en Kotlin
+# Lab 4 – Fonctions avec paramètres et valeur de retour
 
 Ce projet est un exercice pratique portant sur la création de **fonctions avec paramètres** et **valeurs de retour** en Kotlin. Il simule l'évolution du score d'un joueur en fonction de ses actions.
 
@@ -25,3 +25,4 @@ Score après 2ème action : 50
 
 Alerte : Aucun boost actif (boost <= 0), aucun point ajouté.
 Score après 3ème action : 50
+```
