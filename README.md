@@ -35,4 +35,4 @@ Score final : 40
 <img width="1135" height="369" alt="image" src="https://github.com/user-attachments/assets/526cdd70-d38b-4532-8155-09648aa104e4" />
 
 
-<img width="1135" height="369" alt="image" src="https://github.com/user-attachments/assets/dfdd7b3f-a5c7-41a7-bcd4-db99bb858174" />
+<img width="1171" height="219" alt="image" src="https://github.com/user-attachments/assets/9b22542c-286d-45b2-bda1-31ec174a1c84" />
