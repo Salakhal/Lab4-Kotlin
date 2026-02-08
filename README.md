@@ -32,3 +32,7 @@ Calcul des points : -10 (base) * 1 (boost) = -10
 
 Score final : 40
 ```
+<img width="1135" height="369" alt="image" src="https://github.com/user-attachments/assets/526cdd70-d38b-4532-8155-09648aa104e4" />
+
+
+<img width="1135" height="369" alt="image" src="https://github.com/user-attachments/assets/dfdd7b3f-a5c7-41a7-bcd4-db99bb858174" />
